@@ -8,30 +8,30 @@ nastepnie przeklikujemy instalator
 
 nastepnie wchodzimy na strone angular i kopiujemy komende do konsoli
 
- ![ Alt Text](resources\img\angStrona.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources\img\angStrona.png)
 
- ![ Alt Text](resources\img\angCmd.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources\img\angCmd.png)
 
 aby dodać zmienną systemową musimy w folderze kliknac prawym przyciskiem myszy na ten komputer a następnie kliknąć właściwości
 
- ![ Alt Text](resources\img\mojKomp.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources\img\mojKomp.png)
 
 nastepnie klikamy w zaawansowane ustawienia systemu
 
- ![ Alt Text](resources\img\zawans.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources\img\zawans.png)
 
 następnie klikamy w zmienne środowiskowe
 
- ![ Alt Text](resources\img\zmienneśr.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources\img\zmienneśr.png)
 
 nastepnie kilkamy na przycisk nowa pod zmiennymi środowiskowymi
 
- ![ Alt Text](resources\img\nowa.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources\img\nowa.png)
 
 a następnie wpisujemy nazwe zmiennej oraz ścieżke
 
- ![ Alt Text](resources\img\dodaj.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources\img\dodaj.png)
 
 aby stworzyć nowy projekt musimy najpier wpisać w konsoli ng new a następnie podac nazwe projektu
 
- ![ Alt Text](resources\img\nowyproj.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources\img\nowyproj.png)
