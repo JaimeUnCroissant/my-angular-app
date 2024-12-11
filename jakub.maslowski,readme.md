@@ -2,7 +2,7 @@ aby zainstalowac angulara musimy pobrać node js
 
 więc wpisujemy w przeglądarce node js download i pobieramy instalator ze strony
 
- ![ Alt Text](resources\img\node.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources/img/node.png)
 
 nastepnie przeklikujemy instalator
 
