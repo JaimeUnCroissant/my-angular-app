@@ -30,7 +30,7 @@ nastepnie kilkamy na przycisk nowa pod zmiennymi środowiskowymi
 
 a następnie wpisujemy nazwe zmiennej oraz ścieżke
 
- ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources/img/dodaj.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources/img/dadaj.png)
 
 aby stworzyć nowy projekt musimy najpier wpisać w konsoli ng new a następnie podac nazwe projektu
 
