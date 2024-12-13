@@ -10,7 +10,7 @@ nastepnie wchodzimy na strone angular i kopiujemy komende do konsoli
 
  ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources/img/angStrona.png)
 
- ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources/img/angCmd.png)
+ ![ Alt Text](https://github.com/JaimeUnCroissant/my-angular-app/blob/main/resources/img/andCmd.png)
 
 aby dodać zmienną systemową musimy w folderze kliknac prawym przyciskiem myszy na ten komputer a następnie kliknąć właściwości
 
